@@ -173,8 +173,7 @@ This project improved understanding of:
 ---
 
 ## Screenshots
-
-![agriculture-analytics-aws-snowflake-powerbi].(screenshots).
+![agriculture-analytics-aws-snowflake-powerbi](screenshots)
 
 
 ---

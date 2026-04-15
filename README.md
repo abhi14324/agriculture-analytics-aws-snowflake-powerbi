@@ -142,13 +142,6 @@ AWS was used as the cloud data source layer before warehouse reporting.
 The final dashboard was published to Power BI Service.
 
 
-Benefits
-•	cloud report access
-•	deployment demonstration
-•	professional reporting workflow
-
-
-
 Live Dashboard Power BI Service Link : https://app.powerbi.com/groups/321f103f-9ac6-40b5-a8f4-b0762b881b7a/reports/c5182c6f-6e42-4ed4-a6e9-22a52681049e/42dfafb690110ea70e8f?experience=power-bi
 
 ---
@@ -181,7 +174,7 @@ This project improved understanding of:
 
 ## Screenshots
 
-(Add all dashboard screenshots here)
+[agriculture-analytics-aws-snowflake-powerbi]screenshots
 
 ---
 

@@ -149,7 +149,7 @@ Live Dashboard Power BI Service Link : https://app.powerbi.com/groups/321f103f-9
 ## Folder Structure
 ```text
 agriculture-analytics-aws-snowflake-powerbi
-/
+|
 │
 ├── dataset/
 │   └── agriculture_data.csv

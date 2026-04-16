@@ -148,10 +148,29 @@ Live Dashboard Power BI Service Link : https://app.powerbi.com/groups/321f103f-9
 
 ## Folder Structure
 
-dataset/
-snowflake_queries/
-screenshots/
-documentation/
+agriculture-analytics-aws-snowflake-powerbi
+/
+│
+├── dataset/
+│   └── agriculture_data.csv
+│
+├── snowflake_queries/
+│   └── snowflake_queries.sql
+│
+├── screenshots/
+│   ├── Humidity_Analysis.png
+│   ├── Rainfall_Analysis.png
+│   ├──Temperacture_Analysis.png
+|   └──Yeild_Analysis.png
+│
+├── documentation/
+│   └── Agriculture_Project_Documentation.docx
+│
+├── Agriculture_Analytics_Dashboard.pbix
+│
+└── README.md
+│
+└──License
 
 ---
 

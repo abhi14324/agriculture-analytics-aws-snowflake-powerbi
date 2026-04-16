@@ -147,7 +147,7 @@ Live Dashboard Power BI Service Link : https://app.powerbi.com/groups/321f103f-9
 ---
 
 ## Folder Structure
-
+```text
 agriculture-analytics-aws-snowflake-powerbi
 /
 │
@@ -172,6 +172,7 @@ agriculture-analytics-aws-snowflake-powerbi
 │
 └──License
 
+```
 ---
 
 ## Business Output

@@ -23,6 +23,20 @@ The project combines:
 
 ---
 
+❓ Problem Statement
+Karnataka is one of India's most agriculturally diverse states, producing over 13 different crop types across varied climatic zones. However, farmers, agriculture officers, and policy makers often lack a centralized, visual way to understand how environmental factors — rainfall, temperature, and humidity — impact crop yield across different districts and seasons.
+
+Key challenges this project addresses:
+
+-No centralized visibility — agriculture data across 11 districts and 16 years was scattered with no unified reporting system
+-Inability to compare — it was difficult to compare crop performance across seasons (Kharif, Rabi, Zaid) and locations without a dashboard
+-Missing trend analysis — year-over-year changes in rainfall, temperature, and yield were not easily trackable
+-Data underutilization — raw CSV data sitting in local storage was not being used for any analytical or decision-making purpose
+
+This project solves these problems by building a cloud-based pipeline that processes raw agriculture data through AWS and Snowflake, and delivers interactive visual insights through a Power BI dashboard — enabling data-driven decisions for crop planning, resource allocation, and season-wise yield optimization.
+
+---
+
 ## 🎯 Project Objectives
 
 This project answers key agriculture business questions such as:
